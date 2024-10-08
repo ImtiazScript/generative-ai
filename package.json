@@ -1,0 +1,24 @@
+{
+  "name": "generative-ai",
+  "version": "1.0.0",
+  "description": "This is an experimental project to integrate google's generative-ai gemini with Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imtiazUAP/generative-ai.git"
+  },
+  "keywords": [
+    "gemini",
+    "generative-ai",
+    "ai"
+  ],
+  "author": "Imtiaz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imtiazUAP/generative-ai/issues"
+  },
+  "homepage": "https://github.com/imtiazUAP/generative-ai#readme"
+}
