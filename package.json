@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/imtiazUAP/generative-ai/issues"
   },
-  "homepage": "https://github.com/imtiazUAP/generative-ai#readme"
+  "homepage": "https://github.com/imtiazUAP/generative-ai#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
 }
